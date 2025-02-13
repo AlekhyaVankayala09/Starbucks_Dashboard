@@ -76,4 +76,28 @@ The dashboard provides a thorough analysis of Starbucks beverages across several
 This Power BI dashboard offers a comprehensive nutritional analysis of Starbucks beverages, making complex data accessible through interactive visualizations. By presenting key health indicators, it empowers consumers to make informed dietary choices.
 
 
+## How You Can Support My Journey
+
+I have successfully completed over **10 Power BI projects**, which are showcased in my [Novypro portfolio](https://www.novypro.com/profile_about/alekhyavankayala). I invite you to explore my work and gain insights into my expertise in data visualization and analytics.
+
+**I am actively seeking internship or entry-level opportunities in data analytics, as well as freelance Power BI projects. If you have any relevant opportunities or require assistance with Power BI solutions, I would love to connect and collaborate.**
+
+Feel free to reach out to me on LinkedIn. I look forward to engaging with like-minded professionals and contributing to meaningful data-driven projects.
+
+#
+
+[🔁Home](#table-of-contents)
+
+
+### Created and Presented by -
+Alekhya Vankayala @Aspiring Data Analyst
+[LinkedIn](https://www.linkedin.com/in/alekhyavankayala/)
+
+
+
+
+
+
+
+
 
