@@ -13,10 +13,10 @@ This project aims to analyze and visualize the nutritional composition of Starbu
 ### Page 1: Overall Nutritional Insights ![image](https://github.com/AlekhyaVankayala09/Starbucks_Dashboard/blob/ba7930bdfd6dd4b2328b44d7cc63ee9001526308/Overview.jpg)
 
 
-### Page 2: Comparative Analysis by Beverage Type
+### Page 2: Comparative Analysis by Beverage Type ![image](https://github.com/AlekhyaVankayala09/Starbucks_Dashboard/blob/9675f416d2747d1fbd62deb75506af2112f05387/Nutrition%20Insights.jpg)
 
 
-### Page 3: Health Impact & Key Metrics
+### Page 3: Health Impact & Key Metrics ![image](https://github.com/AlekhyaVankayala09/Starbucks_Dashboard/blob/9675f416d2747d1fbd62deb75506af2112f05387/Insights.jpg)
 
 
 
